@@ -18,5 +18,5 @@
 
 
 ### Tools
-- Microsoft SQL Server 2019 for data analysis - View [SQL scripts](https://github.com/sanjanand06/Product-Analysis-RFM/blob/main/Products-Data.sql))
+- Microsoft SQL Server 2019 for data analysis - View [SQL scripts](https://github.com/sanjanand06/Product-Analysis-RFM/blob/main/Products-Data.sql)
   
