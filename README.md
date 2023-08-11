@@ -19,4 +19,9 @@
 
 ### Tools
 - Microsoft SQL Server 2019 for data analysis - View [SQL scripts](https://github.com/sanjanand06/Product-Analysis-RFM/blob/main/Products-Data.sql)
-  
+
+### Outcome
+- 'Classic cars' was the most sold product in the month of
+November.
+- Based on RFM analysis, customers were grouped into 'lost customers', 'slipping away, cannot lose', 'new customers', 'potential churners', 'active' and 'loyal'
+- The best customers('active', 'loyal') are 15.
